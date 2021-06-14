@@ -4,4 +4,5 @@ Nội dung chính các bài tập thực hành:
 <ul>
    <li> <b> Lab 01: </b> Thresholding-based Segmentation </li>
    <li> <b> Lab 02: </b> Clustering-based Segmentation </li>
+   <li> <b> Lab 03: </b> Region-based Segmentation </li>
 </ul>
